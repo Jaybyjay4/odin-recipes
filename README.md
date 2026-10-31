@@ -1,1 +1,1 @@
-# odin-recipes
+Hi, this is our first project testing all we have learnt from html intro. For example headings and italics.
